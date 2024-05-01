@@ -4,9 +4,6 @@ Welcome to the documentation for the Solar Suitability Tool on the Navajo Nation
 This tool is designed to serve as the first step to choosing where to locate a solar energy project.
 It currently uses only publicly available data from ArcGIS Online.
 
-The tool can be accessed at the following link <https://code.earthengine.google.com/f232ccdce78635a905beabe2e5ec438d>
-
-
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
 
