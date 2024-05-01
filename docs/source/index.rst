@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Navajo Nation Site Suitability Tool's documentation!
+=================================================================
 
 Navajo Nation Site Suitability Tool
 
