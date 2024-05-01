@@ -3,6 +3,8 @@ Welcome to Navajo Nation Site Suitability Tool's documentation!
 
 Navajo Nation Site Suitability Tool
 
+This serves as the first step to choosing where to create a utility scale solar project in the Navajon Nation.
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
