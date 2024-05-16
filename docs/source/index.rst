@@ -19,7 +19,7 @@ It pulls data from the `Open Food Facts database <https://world.openfoodfacts.or
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`Solar Siting Tool Methodology` section for further information, including
-how to :ref:`User Guide` the project.
+how to :ref:`Overview` the project.
 
 Lumache has its documentation hosted on Read the Docs.
 
@@ -58,5 +58,5 @@ Contents
 
 .. toctree::
 
-   usage
+   Solar Siting Tool Methodology
    api
