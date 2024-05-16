@@ -58,5 +58,5 @@ Contents
 
 .. toctree::
 
-   Solar Siting Tool Methodology
+   usage
    api
