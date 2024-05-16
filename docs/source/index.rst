@@ -34,4 +34,3 @@ Contents
 
    usage
    api
-   User Guide
