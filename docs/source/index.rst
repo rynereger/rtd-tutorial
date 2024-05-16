@@ -13,16 +13,6 @@ Geographic Information System with a Multicriteria Decision Analysis (GIS-MCDA)
 to develop a tool to determine the relative suitability of utility-scale solar 
 development on Navajo tribal lands. This serves as the documentation of this tool.
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
-
-Lumache has its documentation hosted on Read the Docs.
-
 Motivation
 ------------
 
@@ -48,6 +38,19 @@ Limitations
 ------------
 
 There are three main limitations of the tool. One is the quality of the current data. All of the current data is from publicly available sources. Some are over a decade old and the correctness is not verified. The second limitation is with the omission of data. There are many criteria that we would like to consider but do not have data for — such as land designation for grazing. A user is able to upload their own data if they have it. The last limitation is because of raster analysis. The data layers all start in their own projection and resolution. In order to combine them into one analysis, they must each be adjusted to the same resolution and projection, which can cause minor issues.
+
+Read the Docs template example
+-------------------------------
+
+**Lumache** (/lu'make/) is a Python library for cooks and food lovers
+that creates recipes mixing random ingredients.
+It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+and offers a *simple* and *intuitive* API.
+
+Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project.
+
+Lumache has its documentation hosted on Read the Docs.
 
 .. note::
 
