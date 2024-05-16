@@ -13,6 +13,9 @@ Geographic Information System with a Multicriteria Decision Analysis (GIS-MCDA)
 to develop a tool to determine the relative suitability of utility-scale solar 
 development on Navajo tribal lands. This serves as the documentation of this tool.
 
+Check out the :doc:`usage` section for further information, including
+the :ref:`installation` the project. Check out the :doc:`api` section to learn how to use the tool.
+
 Motivation
 ------------
 
@@ -46,9 +49,6 @@ Read the Docs template example
 that creates recipes mixing random ingredients.
 It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
 and offers a *simple* and *intuitive* API.
-
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 Lumache has its documentation hosted on Read the Docs.
 
