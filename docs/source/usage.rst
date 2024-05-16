@@ -1,5 +1,5 @@
-Usage
-=====
+Solar Siting Tool Methodology
+===============================
 
 .. _installation:
 
