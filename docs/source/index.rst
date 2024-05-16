@@ -23,6 +23,26 @@ how to :ref:`installation` the project.
 
 Lumache has its documentation hosted on Read the Docs.
 
+Motivation
+------------
+
+jk
+
+Solar Siting Tool
+------------------
+
+jk
+
+Objective
+------------
+
+jk
+
+Limitations
+------------
+
+jk
+
 .. note::
 
    This project is under active development.
